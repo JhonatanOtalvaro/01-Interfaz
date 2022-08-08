@@ -1,0 +1,57 @@
+1). Explique las 7 actividades cuando el usuario interactúa con el sistema.
+
+- Percepción.
+- Interpretación.
+- Evaluación.
+- Objetivos.
+- Intenciones.
+- Especificación de la acción.
+- Ejecución.
+
+2). Explique el modelo humano de procesamiento de la información.
+
+- Usualmente el humano se interpreta mediante la Elaboración, Atención, Repaso mental, Recuperación.
+
+3). Explique los canales de entrada en las interfaces de usuario.
+
+Objetivo principal, transmitir información al usuario final.
+
+4). Explique el sistema visual.
+
+Obtener información a parti de la vista.
+
+5). Explique los aspectos del sistema visual, desde la perspectiva IPO.
+
+sensación y percepción.
+Sensación: estímulo físico.
+Percepción: Asignación de la información.
+
+6). Explique como percibimos los colores.
+
+Luz llega a la retina y es codificada por los fotorreceptores.
+
+7). Explique mediante ejemplo como percibimos los colores.
+
+Luz llega a la retina y es codificada por los fotorreceptores.
+
+8). Explique la importancia de la iluminación en el diseño de interfaces.
+
+Colores tenues.
+
+9). Explique el sistema auditivo en el diseño de interfaces.
+
+Comunicación humana.
+
+10). Explique el sentido del tacto en la IPO.
+
+Medio de comunicación.
+
+11). Explique los sistemas cenestésico y vestibular.
+
+cenestético: Perciben lo que está está ocurriendo en la parte exterior e interior de nuestro cuerpo.
+vestibular: no proporciona información acerca de la orientación. movimiento, aceleración.
+
+12). Explique el sistema olfativo en el diseño de IPO.
+
+Adaptación
+Variación individual: dificulta diseño interfaces.
